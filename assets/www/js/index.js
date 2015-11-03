@@ -48,10 +48,10 @@ var app = {
     }
 };
 
-function transale(){
+/*function transale(){
     var translation = $("#source").val();
    $("#target").html(translation);
-}
+}*/
 function clearText(){
     $("#source").val("")
 }
